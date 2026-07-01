@@ -1,35 +1,67 @@
 ---
-title: Home
+title: Getting Started with F&M JupyterHub
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Getting Started with F&M JupyterHub
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## A Faculty Guide
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+*From your first login to teaching your course with confidence.*
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+**Research Computing Services (RCS)**  
+Franklin & Marshall College  
+**Last updated:** July 2026
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+F&M JupyterHub provides a browser-based environment for teaching with Jupyter notebooks. This guide introduces the essential workflows faculty need to prepare, teach, and manage a course using F&M JupyterHub.
 
-To get started with creating a site, simply:
+This guide focuses on using **F&M JupyterHub**. It does not teach notebook design, Python, R, Git, GitHub, Linux, data science, or machine learning. Optional resources are included for faculty who want to explore those topics.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+{: .good-to-know }
+> No prior experience with Jupyter notebooks, GitHub, Linux, or programming is required to use F&M JupyterHub.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+## Start here
 
-----
+<div class="home-card-grid">
+  <div class="home-card">
+    <h3>Getting Started</h3>
+    <p>Request access, log in, select a course, and get oriented in JupyterLab.</p>
+    <p><a href="{{ site.baseurl }}/getting-started/account/">Request an Account →</a></p>
+  </div>
+  <div class="home-card">
+    <h3>Course Management</h3>
+    <p>Access course tools, support students, request course changes, and manage rosters.</p>
+    <p><a href="{{ site.baseurl }}/course-management/overview/">Course Management →</a></p>
+  </div>
+  <div class="home-card">
+    <h3>Teaching Workflows</h3>
+    <p>Use GitHub and nbgitpuller, review student notebooks, and follow RCS recommendations.</p>
+    <p><a href="{{ site.baseurl }}/teaching/recommendations/">Teaching Workflows →</a></p>
+  </div>
+  <div class="home-card">
+    <h3>Need Help?</h3>
+    <p>Learn how to request assistance from Research Computing Services.</p>
+    <p><a href="{{ site.baseurl }}/help/support/">Get Help →</a></p>
+  </div>
+</div>
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+## What you will learn
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+After reading this guide, you will be able to:
+
+- Request access to F&M JupyterHub.
+- Log in and access your course.
+- Recognize the major parts of JupyterLab.
+- Use the course management tools available to faculty.
+- Add and remove students from a course roster.
+- Understand recommended workflows for distributing and reviewing notebooks.
+- Know where to find help and support.
+
+## Continue learning
+
+If you would like to explore more advanced topics, such as GitHub, notebook design, or the broader Jupyter ecosystem, see [Teaching with Jupyter Notebooks]({{ site.baseurl }}/getting-started/notebook-resources/) and [Managing Course Materials with GitHub]({{ site.baseurl }}/teaching/github/).

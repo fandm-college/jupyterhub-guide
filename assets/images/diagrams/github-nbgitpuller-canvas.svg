@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+<style>
+.box{fill:#eef6fd;stroke:#003B71;stroke-width:3;rx:18}
+.txt{font-family:Arial, sans-serif;font-size:24px;fill:#1f2933;font-weight:600;text-anchor:middle}
+.arrow{stroke:#003B71;stroke-width:4;marker-end:url(#arrow)}
+</style>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#003B71"/></marker></defs>
+<rect class="box" x="40" y="70" width="160" height="80"/><text class="txt" x="120" y="118">GitHub</text>
+<line class="arrow" x1="210" y1="110" x2="300" y2="110"/>
+<rect class="box" x="310" y="70" width="180" height="80"/><text class="txt" x="400" y="118">nbgitpuller</text>
+<line class="arrow" x1="500" y1="110" x2="590" y2="110"/>
+<rect class="box" x="600" y="70" width="150" height="80"/><text class="txt" x="675" y="118">Canvas</text>
+<line class="arrow" x1="760" y1="110" x2="850" y2="110"/>
+<rect class="box" x="860" y="70" width="110" height="80"/><text class="txt" x="915" y="105">Student</text><text class="txt" x="915" y="135">clicks</text>
+</svg>

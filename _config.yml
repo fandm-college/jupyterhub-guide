@@ -1,8 +1,56 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: F&M JupyterHub Faculty Guide
+description: Faculty documentation for teaching with F&M JupyterHub
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: ""
+baseurl: ""
+
+permalink: pretty
+
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+
+heading_anchors: true
+nav_sort: case_insensitive
+back_to_top: true
+back_to_top_text: "Back to top"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "F&M JupyterHub":
+    - "https://jupyterhub.fandm.edu"
+  "Service Portal":
+    - "https://request.fandm.edu"
+
+footer_content: "Getting Started with F&M JupyterHub: A Faculty Guide • Research Computing Services (RCS) • Last updated July 2026"
+
+color_scheme: fandm
+
+callouts:
+  good-to-know:
+    title: Good to Know
+    color: blue
+  expect:
+    title: What Should I Expect?
+    color: green
+  help:
+    title: Need Help?
+    color: yellow
+  optional:
+    title: Optional Advanced Topic
+    color: purple
+  recommendation:
+    title: Research Computing Services Recommendation
+    color: red
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
