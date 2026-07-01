@@ -2,6 +2,7 @@
 title: Overview
 parent: Course Management
 nav_order: 1
+layout: default
 ---
 
 # Course Management Overview

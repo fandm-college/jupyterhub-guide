@@ -2,6 +2,7 @@
 title: Request an Account
 parent: Getting Started
 nav_order: 1
+layout: default
 ---
 
 # Your First Steps with F&M JupyterHub

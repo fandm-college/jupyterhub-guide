@@ -2,6 +2,7 @@
 title: Supporting Students
 parent: Course Management
 nav_order: 2
+layout: default
 ---
 
 # Supporting Students with Course Administration

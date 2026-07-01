@@ -2,6 +2,7 @@
 title: Logging In
 parent: Getting Started
 nav_order: 2
+layout: default
 ---
 
 # Logging In

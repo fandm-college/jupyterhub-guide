@@ -2,6 +2,7 @@
 title: Recommendations from RCS
 parent: Teaching Workflows
 nav_order: 1
+layout: default
 ---
 
 # Recommendations from Research Computing Services

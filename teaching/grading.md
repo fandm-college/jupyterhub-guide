@@ -2,6 +2,7 @@
 title: Reviewing and Grading Notebooks
 parent: Teaching Workflows
 nav_order: 3
+layout: default
 ---
 
 # Reviewing and Grading Student Notebooks

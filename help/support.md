@@ -2,6 +2,7 @@
 title: Support
 parent: Need Help?
 nav_order: 1
+layout: default
 ---
 
 # Need Help?

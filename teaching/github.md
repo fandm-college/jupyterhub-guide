@@ -2,6 +2,7 @@
 title: GitHub and nbgitpuller
 parent: Teaching Workflows
 nav_order: 2
+layout: default
 ---
 
 # Managing Course Materials with GitHub

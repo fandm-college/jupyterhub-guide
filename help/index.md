@@ -2,6 +2,7 @@
 title: Need Help?
 has_children: true
 nav_order: 5
+layout: default
 ---
 
 # Need Help?

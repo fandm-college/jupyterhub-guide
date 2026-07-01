@@ -41,3 +41,16 @@ The guide uses these Just the Docs callouts:
 - `help`
 - `optional`
 - `recommendation`
+
+
+## Layout note
+
+All Markdown pages use the Just the Docs `default` layout through `_config.yml` defaults. The home page explicitly uses `layout: home`.
+
+Custom styles are stored in:
+
+```text
+_sass/custom/custom.scss
+```
+
+This is the Just the Docs-supported location for custom SCSS.

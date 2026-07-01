@@ -2,6 +2,7 @@
 title: Requesting Course Changes
 parent: Course Management
 nav_order: 3
+layout: default
 ---
 
 # Requesting a New Course or Course Changes

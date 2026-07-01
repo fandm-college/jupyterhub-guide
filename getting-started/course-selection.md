@@ -2,6 +2,7 @@
 title: Selecting a Course
 parent: Getting Started
 nav_order: 3
+layout: default
 ---
 
 # Selecting a Course

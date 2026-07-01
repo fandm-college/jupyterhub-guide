@@ -2,6 +2,7 @@
 title: Managing Your Course Roster
 parent: Course Management
 nav_order: 4
+layout: default
 ---
 
 # Managing Your Course Roster

@@ -2,6 +2,7 @@
 title: Before You Teach Checklist
 parent: Need Help?
 nav_order: 2
+layout: default
 ---
 
 # Before You Teach Checklist
