@@ -25,6 +25,8 @@ aux_links:
     - "https://jupyterhub.fandm.edu"
   "Service Portal":
     - "https://request.fandm.edu"
+  "Research Computing Services":
+    - "https://fandm-college.github.io/rcs-website/"
 
 footer_content: "Getting Started with F&M JupyterHub: A Faculty Guide • Research Computing Services (RCS) • Last updated July 2026"
 
