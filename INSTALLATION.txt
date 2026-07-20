@@ -1,0 +1,28 @@
+JupyterHub Faculty Guide — Requested Changes
+
+Copy the contents of this ZIP into the root of the existing jupyterhub-guide
+repository, preserving the included directory structure. Existing files with
+the same paths should be replaced.
+
+Changes included:
+
+1. Added consistent "Next step" navigation to every user-facing page that was
+   missing it:
+   - index.md
+   - getting-started/index.md
+   - course-management/index.md
+   - teaching/index.md
+   - help/index.md
+   - help/checklist.md (renamed the existing final "Start over" heading)
+
+2. Added a new Getting Started page for switching between courses:
+   - getting-started/switching-courses.md
+
+3. Updated the Getting Started sequence and navigation order:
+   - getting-started/course-selection.md
+   - getting-started/jupyterlab.md
+   - getting-started/notebook-resources.md
+   - getting-started/index.md
+
+4. Added the supplied stopped-server screenshot with a descriptive filename:
+   - assets/images/screenshots/hub-control-panel-server-stopped.png

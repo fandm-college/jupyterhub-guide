@@ -65,3 +65,9 @@ After reading this guide, you will be able to:
 ## Continue learning
 
 If you would like to explore more advanced topics, such as GitHub, notebook design, or the broader Jupyter ecosystem, see [Teaching with Jupyter Notebooks]({{ site.baseurl }}/getting-started/notebook-resources/) and [Managing Course Materials with GitHub]({{ site.baseurl }}/teaching/github/).
+
+---
+
+## Next step
+
+Begin with [Request an Account]({{ site.baseurl }}/getting-started/account/).

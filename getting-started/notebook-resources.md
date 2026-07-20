@@ -1,7 +1,7 @@
 ---
 title: Teaching with Jupyter Notebooks
 parent: Getting Started
-nav_order: 5
+nav_order: 6
 layout: default
 ---
 

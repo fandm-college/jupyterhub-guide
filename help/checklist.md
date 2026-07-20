@@ -23,6 +23,6 @@ Use this checklist before the first day your students use F&M JupyterHub.
 
 ---
 
-## Start over
+## Next step
 
 Return to the [Faculty Guide home page]({{ site.baseurl }}/).

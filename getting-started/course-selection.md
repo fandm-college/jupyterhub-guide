@@ -35,4 +35,4 @@ If you teach only one course, you will skip the Course Selection page and be tak
 
 ## Next step
 
-Continue to [Your JupyterLab Workspace]({{ site.baseurl }}/getting-started/jupyterlab/).
+Continue to [Switching Courses]({{ site.baseurl }}/getting-started/switching-courses/).
